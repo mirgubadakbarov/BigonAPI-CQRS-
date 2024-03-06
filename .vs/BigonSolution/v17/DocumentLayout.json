@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mirgubad\\Desktop\\BigonApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{977CFDDD-3E8C-4A9B-93B3-0B7404270B3D}|Bigon.WebApi\\Bigon.WebApi.csproj|c:\\users\\mirgubad\\desktop\\bigonapi\\bigon.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977CFDDD-3E8C-4A9B-93B3-0B7404270B3D}|Bigon.WebApi\\Bigon.WebApi.csproj|solutionrelative:bigon.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977CFDDD-3E8C-4A9B-93B3-0B7404270B3D}|Bigon.WebApi\\Bigon.WebApi.csproj|c:\\users\\mirgubad\\desktop\\bigonapi\\bigon.webapi\\controllers\\sizescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977CFDDD-3E8C-4A9B-93B3-0B7404270B3D}|Bigon.WebApi\\Bigon.WebApi.csproj|solutionrelative:bigon.webapi\\controllers\\sizescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 301,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SizesController.cs",
+              "DocumentMoniker": "C:\\Users\\Mirgubad\\Desktop\\BigonApi\\Bigon.WebApi\\Controllers\\SizesController.cs",
+              "RelativeDocumentMoniker": "Bigon.WebApi\\Controllers\\SizesController.cs",
+              "ToolTip": "C:\\Users\\Mirgubad\\Desktop\\BigonApi\\Bigon.WebApi\\Controllers\\SizesController.cs",
+              "RelativeToolTip": "Bigon.WebApi\\Controllers\\SizesController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowAMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T17:40:19.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mirgubad\\Desktop\\BigonApi\\Bigon.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Bigon.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Mirgubad\\Desktop\\BigonApi\\Bigon.WebApi\\Program.cs",
+              "RelativeToolTip": "Bigon.WebApi\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T17:13:24.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
